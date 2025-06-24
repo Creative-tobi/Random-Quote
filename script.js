@@ -20,8 +20,8 @@ document.addEventListener("DOMContentLoaded", () => {
                     
                      <div class="quotePa">
         
-                         <h2>Daily Quote: ${quote}<h2>
-                            <p>Author: ${author}<p>
+                         <h2>" ${quote} "<h2>
+                            <p> ${author}<p>
                         </div>
                     `;
       }
@@ -56,8 +56,8 @@ function check(){
                         
                          <div class="quotePa">
             
-                             <h2>Daily Quote: ${parables.quote}<h2>
-                                <p>Author: ${parables.author}<p>
+                             <h2>" ${parables.quote} "<h2>
+                                <p> ${parables.author} <p>
                             </div>
                         `;
         }

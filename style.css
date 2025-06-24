@@ -1,0 +1,37 @@
+*{
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+button{
+    padding: 20px 30px;
+    border-radius: 16px;
+    border: none;
+    background-color: rgb(0, 0, 206);
+    color: white;
+}
+
+.general{
+    margin: auto;
+    text-align: center;
+    border: 1px solid rgb(26, 28, 32);
+    margin-top: 20px;
+    width: 600px;
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: 10px 10px rgb(75, 75, 255);
+}
+
+.quotePa p{
+    text-decoration: underline;
+    color: rgb(18, 18, 34);
+    text-align: center;
+}
+
+.quotePa h2{
+    color: rgb(65, 65, 65);
+}
+
+h1{
+    color: rgb(44, 0, 0);
+}
