@@ -36,3 +36,16 @@ button{
 h1{
     color: rgb(44, 0, 0);
 }
+
+@media(max-width: 780px){
+    .general{
+        width: 400px;
+    }
+}
+
+@media(max-width: 480px){
+    .general{
+        width: 300px;
+    }
+}
+
